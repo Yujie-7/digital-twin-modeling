@@ -28,7 +28,7 @@ This repository provides the implementation of three representative digital twin
 │
 ├── results/
 │   ├── predictions/                # Saved predictions of each model
-│   ├── evaluation metrics/         # Saved evaluation results (static + dynamic)
+│   ├── evaluation metrics/         # Saved evaluation results 
 │   └── figures/                    # Saved figures
 │
 ├── transient_performance.py        # transient performance analysis scripts
