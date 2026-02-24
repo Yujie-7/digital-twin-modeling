@@ -39,6 +39,8 @@ This repository provides the implementation of three representative digital twin
 
 ## 📊 Data
 
+**Note:** The original industrial dataset used in this study is confidential and cannot be publicly released.
+
 ### 2.1 Training and Testing Data
 
 - `data/train/`  
