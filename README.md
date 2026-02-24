@@ -8,7 +8,7 @@ This repository provides the implementation of three representative digital twin
 - **Hybrid model (System Identification)**
 
 **Evaluation**
-- Steady-state Error: MAE / RMSE / MSE 
+- Steady-state Error: MAE / RMSE / MAPE
 - Transient Error: Settling Time (Ts), Peak Time (Tp), Overshoot (OS)
 
 ---
