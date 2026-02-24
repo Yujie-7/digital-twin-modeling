@@ -1,6 +1,6 @@
 # Digital Twin Modeling and Evaluation (Steam Flow Control)
 
-This repository provides the implementation of three representative digital twin (DT) modeling approaches for an industrial steam flow control process, together with a unified evaluation pipeline for both **static accuracy metrics** and **dynamic response metrics**.
+This repository provides the implementation of three representative digital twin (DT) modeling approaches for an industrial steam flow control process, together with a unified evaluation framework for **steady-state** and **transient** metrics.
 
 **Included DT models**
 - **Physics-based model**
